@@ -14,3 +14,6 @@ Horizontal Pod Autoscaling is configured in AWS-EKS. So that Pod can scale in re
 
 Project 5: 
 AWS-EKS is created using Terraform and Cluster Autoscaler is configured in order to combat the stress on application by adjusting the number nodes running in the cluster.
+
+Project 6:
+In this project, Amazon QuickSight is configured to visualize the data of Amazon RDS MS-SQL Server in a secure way.
