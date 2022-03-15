@@ -17,3 +17,7 @@ AWS-EKS is created using Terraform and Cluster Autoscaler is configured in order
 
 Project 6:
 In this project, Amazon QuickSight is configured to visualize the data of Amazon RDS MS-SQL Server in a secure way.
+
+Project-7: In this project, AWS services SNS and SQS are used. In which, messages are "pushed" to multiple subscribers, which eliminates the need to periodically check or poll for updates and enables parallel asynchronous processing of the message by the subscribers.
+
+Project-8: In this project, a Continuous Delivery pipeline is created in AWS. Services such as AWS CodePipeline, CodeBuild and Elastic BeanStalk are use for the demo purpose.
